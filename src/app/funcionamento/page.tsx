@@ -308,11 +308,11 @@ export default function Funcionamento() {
               </p>
             </div>
           </div>
-          <div className="flex items-center justify-center">
+          {/* <div className="flex items-center justify-center">
             <div className="">
               <YoutubePlayer />
             </div>
-          </div>
+          </div> */}
         </div>
 
         <div className="mx-auto max-w-7xl px-6 py-24 lg:flex lg:items-center lg:gap-x-10 lg:px-8 ">
